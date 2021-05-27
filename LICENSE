@@ -1,0 +1,34 @@
+%*-----------------------------------------------------------------------*
+%|                                                                       |
+%|  Except where otherwise noted, this work is licensed under a          |
+%|  Creative Commons Attribution-ShareAlike 4.0                          |
+%|  International (CC BY-SA 4.0) license.                                |
+%|                                                                       |
+%|  Copyright (c) 2021 by Paul Scherrer Institute (http://www.psi.ch)    |
+%|                                                                       |
+%|       Author: Mariana Verezhak, PSI                                   |
+%*-----------------------------------------------------------------------*
+%
+% You may use this code with the following provisions:
+%
+% If the code is fully or partially redistributed, or rewritten in another
+%   computing language this notice should be included in the redistribution.
+%
+% This code was develloped as a part of the publication below. Any publication
+%    using the package, or any translation of the 
+%    code into another computing language should cite:
+%    M. Verezhak, S. Van Petegem, A. Rodriguez-Fernandez, P. Godard, 
+%    K. Wakonig, D. Karpov, V. L. R. Jacques, Andreas Menzel, L. Thilly,
+%	 and A. Diaz, "X-ray ptychographic topography: A robust nondestructive 
+%	 tool for strain imaging", Phys. Rev. B 103, 144107 (2021). 
+%	 (doi:10.1103/PhysRevB.103.144107).
+%
+% A publication that focuses on describing features, or parameters, that
+%    are already existing in the code should be first discussed with the
+%    authors.
+%   
+% This code is part of a continuous development, it 
+%    is provided “as it is” without guarantees or liability on part
+%    of PSI or the author. It is the user responsibility to ensure its 
+%    proper use and the correctness of the results.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
